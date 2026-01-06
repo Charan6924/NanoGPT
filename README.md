@@ -1,4 +1,4 @@
-# NanoGPT
+# ShakespeareGPT
 
 A character-level Generative Pre-trained Transformer (GPT) built from scratch in PyTorch. 
 This model is trained on the complete works of William Shakespeare to generate original, authentic-sounding plays and poetry.
